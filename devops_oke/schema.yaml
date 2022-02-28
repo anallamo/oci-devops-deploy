@@ -1,5 +1,5 @@
 title: "Use OCI DevOps with OKE"
-description: "Create and connect an OKE cluster and DevOps Deploy service to manage your Kubernetes deployments."
+description: "Provision OKE Kubernetes Cluster, IAM, DevOps project and dependencies - Ram N Sangwan"
 schemaVersion: 1.1.0
 version: "20190304"
 locale: "en"
